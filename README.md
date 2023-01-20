@@ -1,4 +1,4 @@
-# Bloc N° 6 Direction de projets de gestion de donnees
+# Bloc N° 6 Direction de projets de gestion de données
 This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on January 17th 2023 [Link to the demoday](https://youtu.be/cRNy1-rTXYg?t=2917).
 
 # Prédire la consommation électrique: WATT a job!
@@ -11,6 +11,7 @@ This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on Jan
 [link to video of the app in case the app has been disconnected](https://share.vidyard.com/watch/L1Xucxqe1gNMHyHyLa5wDm?)
 
 # About
+
 With 5 people in the team, and a great subject to work on, we have lead our project around 3 main parts.
 
 Here is the content to help you navigate in the files:
