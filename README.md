@@ -23,8 +23,15 @@ Here is the content to help you navigate in the files:
   - 0bis-linear_regression_lasso_without_lags
   - 1-Random_Forest
   - 1bis-Random_forest_without_lags
+  - 2-SGD
+  - 2bis-SGD_without_lag
+  - 3-stack
+  - 4-Vote
 - 1-1_time_series
 ## 2- Deployment
+- 2-1_API
+- 2-2_Streamlit
+
 
 
 Happy reading!
