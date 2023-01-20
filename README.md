@@ -6,4 +6,22 @@ This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on Jan
 
 [Link to the video](https://youtu.be/cRNy1-rTXYg?t=2917)
 
+# About
+With 5 people in the team, and a great subject to work on, we have lead our project around 3 main parts.
 
+Here is the content to help you navigate in the files:
+
+## 0- Data collection and master file
+- 0_0_weather
+- 0_1_prices
+- 0_2_conso_elec
+- Create_master_dataset
+
+## 1- Machine learning models
+- 1_0_supervised_ml
+  - 
+- 1-1_time_series
+## 2- Deployment
+
+
+Happy reading!
