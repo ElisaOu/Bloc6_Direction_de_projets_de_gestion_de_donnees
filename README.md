@@ -12,20 +12,22 @@ This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on Jan
 
 # About
 
-5 people in the team, and a great subject to work on, we have led our project around 3 main parts (data collection, Machine Learning and deployment).
+5 people in the team, and a great subject to work on!
+
+We have led our project around 3 main parts (data collection, Machine Learning and deployment).
 
 To learn more about how the project was managed, please go the video link above
 
-Here is the content of files with the codes, to help you navigate in the files:
+Here below the content of files with code, to help you navigate in the files:
 
 ## 0- Data collection and master file
-- <b>0_0_weather:<b> API request
-- <b>0_1_prices:<b> oil (RBRTEd.xls), electricity (ten00117_linear.csv) and gas (prix_gaz_naturel.csv) source data files of prices
-- <b>0_2_conso_elec:<b> source data file of electricity consumption
-- <b>0_Create_master_dataset:<b> merge of all datasets to create a single master file
+- 0_0_weather: API request
+- 0_1_prices: oil (RBRTEd.xls), electricity (ten00117_linear.csv) and gas (prix_gaz_naturel.csv) source data files of prices
+- 0_2_conso_elec: source data file of electricity consumption
+- 0_Create_master_dataset: merge of all datasets to create a single master file
 
 ## 1- Machine learning models
-- <b>1_0_supervised_ml<b>
+- 1_0_supervised_ml
   - 0-linear_regression_lasso: Linear regression using all features
   - 0bis-linear_regression_lasso_without_lags: linear regression excluding lags and windows
   - 1-Random_Forest: Random forest using all features
@@ -34,10 +36,10 @@ Here is the content of files with the codes, to help you navigate in the files:
   - 2bis-SGD_without_lag: SGD excluding lags and windows
   - 3-stack: stack excluding lags and windows
   - 4-Vote: vote excluding lags and windows
-- <b>1-1_time_series<b>
+- 1-1_time_series
 ## 2- Deployment
-- <b>2-1_API<b>
-- <b>2-2_Streamlit<b>
+- 2-1_API
+- 2-2_Streamlit
 
 
 
