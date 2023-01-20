@@ -6,6 +6,8 @@ This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on Jan
 
 [Link to the video](https://youtu.be/cRNy1-rTXYg?t=2917)
 
+[link to the app](https://share.vidyard.com/watch/L1Xucxqe1gNMHyHyLa5wDm?)
+
 # About
 With 5 people in the team, and a great subject to work on, we have lead our project around 3 main parts.
 
