@@ -19,7 +19,10 @@ Here is the content to help you navigate in the files:
 
 ## 1- Machine learning models
 - 1_0_supervised_ml
-  - 
+  - 0-linear_regression_lasso
+  - 0bis-linear_regression_lasso_without_lags
+  - 1-Random_Forest
+  - 1bis-Random_forest_without_lags
 - 1-1_time_series
 ## 2- Deployment
 
