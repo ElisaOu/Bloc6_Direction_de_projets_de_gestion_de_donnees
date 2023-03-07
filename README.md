@@ -2,7 +2,6 @@
 This project is a sprint for the demoday at Jedha Fullstack Bootcamp held on January 17th 2023 [Link to the demoday](https://youtu.be/cRNy1-rTXYg?t=2917).
 
 # Prédire la consommation électrique: WATT a job!
-[Video explain - Bloc 6](https://share.vidyard.com/watch/nzSSYR5vWzUZFS3CSavzh7?)
 
 [Slides used for the demoday](https://docs.google.com/presentation/d/1V10sNomsMMYLlvwJbftaKjHNslNxmAU7R3Xtqs5fT3c/edit#slide=id.ga5178bf3d4_2_0)
 
